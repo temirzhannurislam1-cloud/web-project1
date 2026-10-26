@@ -45,4 +45,9 @@ header nav a:hover {
 
 main h2 {
     margin-bottom: 1rem;
+}footer {
+    background-color: #222;
+    color: #fff;
+    text-align: center;
+    padding: 1rem;
 }
